@@ -1,6 +1,6 @@
 <p align="center">
   <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg" width="100%
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%
     \" alt="typing animation" />
 </p>
   <!-- Animated Gradient Text -->
